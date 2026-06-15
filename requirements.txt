@@ -1,0 +1,9 @@
+# Python dependencies for data-lake-pipeline
+#
+# The synthetic data generator uses only the Python standard library,
+# so no third party packages are strictly required to generate data.
+#
+# These optional packages are useful when extending the pipeline
+# (for example loading or inspecting data with pandas).
+
+pandas>=2.0
